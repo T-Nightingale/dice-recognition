@@ -1,0 +1,1 @@
+C:\Users\night\Code\dice-recognition\build\classes\kotlin\main\MainKt.class;C:\Users\night\Code\dice-recognition\build\classes\kotlin\main\io\nightingale\dice\DiceDetection.class;C:\Users\night\Code\dice-recognition\build\classes\kotlin\main\io\nightingale\dice\VideoDisplay.class
